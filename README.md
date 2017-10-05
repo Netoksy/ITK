@@ -1,7 +1,7 @@
 # ITK
 ITK projects from school
 
-'''html
+```html
 <!doctype html>
 <html>
 <head>
@@ -42,5 +42,4 @@ ITK projects from school
 	</footer>
 </body>
 </html>
-
-'''
+```
