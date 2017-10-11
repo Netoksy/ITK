@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>MacBook Pro</title>
+</head>
+
+<body>
+
+<!----------------HEADER--------->
+	<header>
+		<nav>
+			<ul>
+				<li><a href="apple.com">Geniální. Na cokoli sáhneš.</a></li>	
+				<li><a href="apple.com">Převratný nový způsob, jak používat Mac.</a></li>
+				<li><a href="apple.com">Touch ID přichází na Mac.</a></li>		
+			</ul>
+			
+			
+		
+		</nav>
+		
+	</header>
+	<!------------------MAIN--------->
+	<main>
+		<h1>Geniální. Na cokoli sáhneš.</h1>
+		<p>Je neskutečně tenký a lehký, přitom rychlejší a výkonnější. Má vůbec nejjasnější, nejbarevnější displej ze všech přenosných Maců. A Touch Bar, skleněný Multi‑Touch proužek integrovaný v klávesnici, na kterém máš po ruce přesně ty nástroje, co právě potřebuješ. MacBook Pro je postavený na převratných nápadech. A jen čeká na ty tvoje.</p>
+		
+
+		<h1>Převratný nový způsob, jak používat Mac.</h1>
+		<p>Funkční klávesy, které tvořily horní řadu klávesnice, nahradil mnohem šikovnější a všestrannější Touch Bar.2 Podle toho, na čem děláš, automaticky zobrazuje potřebné nástroje, které běžně používáš – ovládání hlasitosti nebo jasu, interaktivní prvky na úpravy parametrů a projíždění obsahu, emotikony a nástroje na usnadnění psaní. Kromě toho se teď k Macu přihlásíš pomocí Touch ID.</p>
+
+		<h1>Touch ID přichází na Mac.</h1>
+		<p>Ke svému Macu se teď přihlásíš okamžitě. Rychle odemkneš systémová nastavení a zamčené poznámky. Dokonce i přepneš mezi uživateli – jedním dotykem.</p>
+		
+<img src="smiley.gif" alt="Smiley face">
+		
+		
+		
+		
+	</main>
+	<footer>
+		
+	</footer>
+</body>
+</html>
